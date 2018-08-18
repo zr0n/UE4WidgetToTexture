@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WidgetToTexture",
+	"Description": "Render widget within textures",
+	"Category": "Other",
+	"CreatedBy": "Luiz Fernando (Unzkilled)",
+	"CreatedByURL": "http://souluizfernando.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WidgetToTexture",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
