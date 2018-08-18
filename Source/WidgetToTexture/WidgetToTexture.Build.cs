@@ -1,4 +1,4 @@
-// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+// Copyright 199    8-2018 Epic Games, Inc. All Rights Reserved.
 
 using UnrealBuildTool;
 
@@ -11,15 +11,17 @@ public class WidgetToTexture : ModuleRules
 		PublicIncludePaths.AddRange(
 			new string[] {
 				// ... add public include paths required here ...
+                "WidgetToTexture/Public"
 			}
 			);
 				
 		
 		PrivateIncludePaths.AddRange(
 			new string[] {
+                "WidgetToTexture/Private"
 				// ... add other private include paths required here ...
 			}
-			);
+            );
 
 
         PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "UMG", "RenderCore" });

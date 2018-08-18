@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WidgetToTexture-7333.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Unreal Projects\Playground\Intermediate\Build\Win64\PlaygroundEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\Unreal Projects\Playground\Plugins\WidgetToTexture\Intermediate\Build\Win64\UE4Editor\Development\WidgetToTexture\Module.WidgetToTexture.cpp.obj"
+"F:\Unreal Projects\Playground\Plugins\WidgetToTexture\Intermediate\Build\Win64\UE4Editor\Development\WidgetToTexture\Module.WidgetToTexture.gen.cpp.obj"
+"F:\Unreal Projects\Playground\Plugins\WidgetToTexture\Intermediate\Build\Win64\UE4Editor\Development\WidgetToTexture\PCLaunch.rc.res"
+/OUT:"F:\Unreal Projects\Playground\Plugins\WidgetToTexture\Intermediate\Build\Win64\UE4Editor\Development\WidgetToTexture\UE4Editor-WidgetToTexture-7333.lib"
